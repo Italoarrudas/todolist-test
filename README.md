@@ -1,2 +1,2 @@
 # Todolist 
-todolist test e push test (rocketseat)
+todolist test e push test
